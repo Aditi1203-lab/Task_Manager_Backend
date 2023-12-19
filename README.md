@@ -1,0 +1,1 @@
+This is task management backend project . It has features such as creating user , authentication , adding task ,updating task , deleting task and fetching all tasks specific to a user. It is completely based on NodeJs . For testing endpoints postman is used , and for database MongoDB is used.
